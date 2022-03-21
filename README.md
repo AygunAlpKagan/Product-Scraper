@@ -48,11 +48,17 @@ $ npm run start:prod
 ## Protocol
 
 The most widely used in today's web technology dec the communication protocol between the server and the client. We usually use GET and POST HTTP requests widely when browsing on a website. With this task, we also use the Http protocol based on Rest in. We are creating a Restful url structure to filter and search for data.
-
+<img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/>
 
 ## Usage
 
-The most widely used in today's web technology dec the communication protocol between the server and the client. We usually use GET and POST HTTP requests widely when browsing on a website. With this task, we also use the Http protocol based on Rest in. We are creating a Restful url structure to filter and search for data.
+- The first stage after receiving the project clone is to do npm install. This way, we will have downloaded all the libraries within the project.
+- Use the "npm run start:dev" command to run it later. So your project will start working.
+(If you want to connect to the database within the project, the "experiment" that comes with the project.don't forget to add "json" to the middle! You can use this to add a credential directly with the terminal = $env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\{userName}\galaksiya\deneme-f6b6c-firebase-adminsdk-ct16s-776c6efc66.json" ))
+
+- Just follow the controls to use each service...
+
+<img src="Ekran%20görüntüsü%202022-03-19%20001524.png">
 
 ## Support
 
