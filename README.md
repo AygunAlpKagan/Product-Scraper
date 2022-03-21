@@ -41,14 +41,12 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-# production mode
-$ npm run start:prod
 ```
 
 ## Protocol
 
 The most widely used in today's web technology dec the communication protocol between the server and the client. We usually use GET and POST HTTP requests widely when browsing on a website. With this task, we also use the Http protocol based on Rest in. We are creating a Restful url structure to filter and search for data.
-<img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/>
+
 
 ## Usage
 
