@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+With this project, we shot store products under the scraper. Get was discarded with Axios, and these data were retrieved with Cheerio. The collected data was printed to the Firestore database using the methods of the products service. These saved data were serached to Search services.
 
 ## Installation
 
@@ -45,18 +45,14 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Protocol
 
-```bash
-# unit tests
-$ npm run test
+The most widely used in today's web technology dec the communication protocol between the server and the client. We usually use GET and POST HTTP requests widely when browsing on a website. With this task, we also use the Http protocol based on Rest in. We are creating a Restful url structure to filter and search for data.
 
-# e2e tests
-$ npm run test:e2e
 
-# test coverage
-$ npm run test:cov
-```
+## Usage
+
+The most widely used in today's web technology dec the communication protocol between the server and the client. We usually use GET and POST HTTP requests widely when browsing on a website. With this task, we also use the Http protocol based on Rest in. We are creating a Restful url structure to filter and search for data.
 
 ## Support
 
